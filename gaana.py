@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os 
 os.mkdir('/home/ashish/Downloads/Gaana',0755)
 os.chdir('/home/ashish/Downloads/Gaana/')
-url=raw_input()
+url=raw_input("Enter the playlist url:")
 links=[]
 title=[]
 def scaper(url):
