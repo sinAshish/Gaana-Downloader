@@ -1,5 +1,12 @@
 # Gaana-Downloader
 A python Script that downloads songs from [Gaana.com](https://gaana.com)
+
+## Requirements
+`requests`
+`BeautifulSoup`
+`Selenium`
+`Urllib2`
+
 ## How to Use
 Just paste the url of the playlist you want to listen and wait for sometime 
 and TaDA
