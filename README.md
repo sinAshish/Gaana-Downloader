@@ -8,7 +8,7 @@ A python Script that downloads songs from [Gaana.com](https://gaana.com)
 `Urllib2`
 
 ## How to Use
-Just paste the url of the playlist you want to listen and wait for sometime 
+Just paste the URL of the playlist you want to listen and wait for sometime 
 and TaDA
 Songs Downloaded!
 
